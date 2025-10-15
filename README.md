@@ -1,4 +1,4 @@
-<h1>Electronics eCommerce Shop With Admin Dashboard in Next.js and Node.js</h1>
+<h1>Singitronic - Electronics eCommerce Shop With Admin Dashboard in Next.js and Node.js</h1>
 
 Electronics eCommerce Shop with Admin Dashboard is a free online store built using Next.js, Node.js, and MySQL. The project features a custom design, is fully responsive, and was developed entirely from scratch.
 
